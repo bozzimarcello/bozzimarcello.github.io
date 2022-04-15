@@ -1,3 +1,0 @@
-# Contatti
-
-Pagina dei contatti
