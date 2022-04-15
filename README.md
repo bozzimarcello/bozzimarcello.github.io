@@ -1,4 +1,4 @@
-# Benvenuto su bozzimarcello.github.io
+# Benvenuto
 Queste pagine raccolgono alcune informazioni su di me.
 In breve, sono un insegnante di informatica in un istituto tecnico e formatore di docenti su tematiche di didattica innovativa digitale. Se resta tempo mi occupo di cybersecurity, project based learning, game based learning e game development.
 
