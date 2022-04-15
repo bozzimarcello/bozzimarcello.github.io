@@ -1,6 +1,2 @@
-# Welcome to bozzimarcello.github.io
-Marcello Bozzi GitHub Pages site
-
-Visualizza [Contatti](/contatti)
-
-Visualizza [Progetto](/progetto)
+# Benvenuto su bozzimarcello.github.io
+Se sei interessato, qui trovi il mio [Curriculum Vitae](/cv)
