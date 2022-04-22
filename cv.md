@@ -1,4 +1,3 @@
-# Marcello Bozzi - Insegnante di informatica e formatore docenti
 Sono un insegnante di informatica e formatore di docenti su tematiche di didattica innovativa digitale. Se resta tempo mi occupo di cybersecurity, project based learning, game based learning e game development.
 
 ## Curriculum Vitae
