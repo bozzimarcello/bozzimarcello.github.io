@@ -21,3 +21,9 @@ Se sei interessato, qui trovi il mio [Curriculum Vitae](/curriculum)
 
 ## Social
 Se vuoi entrare in contatto con me puoi seguirmi su Twitter [@marcellobozzi](https://twitter.com/marcellobozzi)
+
+## Corsi per docenti
+Qui trovi alcune slides dei miei corsi per docenti Neo-Immessi in ruolo:
+- [Apprendimento per progetti e valutazione formativa](/slides/2022-BOZZI-NeoImmessi-Apprendimento%20per%20progetti%20e%20valutazione%20formativa.pdf)
+- [Giochi digitali nell'apprendimento](/slides/2022-BOZZI-NeoImmessi-Giochi%20digitali%20nell'apprendimento.pdf)
+- [Prevenzione del Cyberbullismo](/slides/2022-BOZZI-NeoImmessi-Prevenzione%20del%20Cyberbullismo.pdf)
