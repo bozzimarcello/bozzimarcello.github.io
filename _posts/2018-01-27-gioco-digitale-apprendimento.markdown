@@ -62,7 +62,7 @@ Constance Steinkuehler
 [Massively Multiplayer Online Gaming as a Constellation of Literacy Practices](http://journals.sagepub.com/doi/pdf/10.2304/elea.2007.4.3.297)
 (2007)
 
-Alberto Rossetti
+Simone Cosimi
 [Fortnite come una droga? L'esperto: "Bisogna saper riconoscere il vero disagio"](https://www.repubblica.it/tecnologia/prodotti/2018/10/03/news/fortnite_come_una_droga_l_esperto_bisogna_saper_riconoscere_il_vero_disagio_-208053337/?fbclid=IwAR2yw8mijiKk5WoMNG-NI-wZT-iva0Jquq59QLi0qn5ZKvdyD3NHkttkFX0) (2018)
 
 
