@@ -4,7 +4,7 @@ title: Curriculum
 permalink: /curriculum/
 ---
 
-## ESPERIENZA PROFESSIONALE
+## POSIZIONE ATTUALE
 ### Docente di "Informatica" per l'indirizzo "Informatica e Telecomunicazioni" dal 2015 ad oggi, ITI "Ettore Majorana" - Grugliasco (TO) - www.itismajo.it
 Come docente di informatica in un Istituto Tecnico Industriale seguo le linee guida ministeriali che riguardano la mia materia. Insegno prevalentemente nel triennio e gli argomenti che tratto vanno dal pensiero computazionale, alla programmazione (linea di comando, desktop, mobile e web), fino alla progettazione di basi si dati. Utilizzo argomenti di sicurezza informatica, strumenti di "gamification" e il "project based learning" per arricchire l'esperienza di apprendimento dei miei allievi. Inoltre tengo corsi di formazione per docenti sull'innovazione digitale e la didattica.
 
@@ -50,6 +50,7 @@ Formatore Docenti dal 2016, per formazione neo-immessi in ruolo e PNFD. Alcuni t
 - Microsoft Innovative Educator Expert dal 2017-2021
 - Formatore progetto "Programmo anch'io" per Associazione DSchola
 
+## ESPERIENZA PROFESSIONALE PRECEDENTE
 ### Docente di "Informatica" dal 2012 al 2014
 - Liceo Scientifico Primo Levi - Torino - www.istitutoprimolevi.gov.it
 - I.I.S Vittorini - Grugliasco (TO) - www.vittorgru.it
