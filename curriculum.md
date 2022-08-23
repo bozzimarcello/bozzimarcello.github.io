@@ -78,7 +78,34 @@ Ho creato componenti per l’elaborazione di immagini e sistemi di archiviazione
 ### C Developer dal 1996 al 1999 in Sinedita S.r.l. - Torino - www.sinedita.it
 Mi sono occupato di analizzare, realizzare e seguire i clienti nel servizio post-vendita di soluzioni personalizzate per l’impaginazione automatica in ambiente editoriale.
 
-## COMPETENZE
+## SINTESI COMPETENZE
+### Insegnamento
+Insegnamento frontale e cooperativo. Creazione di materiale didattico originale. Public Speaking. Mentoring e coaching. e-Learinig con esperimenti di Flipped Classroom.
+
+### Development
+- Linguaggi: C#, SQL, HTML, CSS, Javascript, PHP, C, C++
+- IDE: Microsoft Visual Studio Community, Microsoft Visual Studio Code
+- Microsoft .Net Core, Razor Pages e componenti Blazor
+- Unity 3D, game dev, AR/VR
+
+### Versionig
+- Git e GitHub
+
+### Cloud
+- Google Cloud Platform
+- Docker
+- Microsoft 365
+
+### OS
+- Apple (desktop e mobile)
+- Microsoft
+- GNU/Linux
+- Android.
+
+### Database
+- Progettazione, integrazione e manutenzione. 
+- MySQL, Oracle, Microsoft SQL Server.
+
 ### Business Analysis
 Raccolta ed analisi dei requisiti. Stesura della documentazione di progetto.
 
@@ -87,18 +114,6 @@ Cura della relazione con il cliente. Pianificazione della produzione software. O
 
 ### SEO/Analytics
 Analisi globale dei principali parametri (HTTP headers, title, headings, metatag, keywords, URL). Analisi e consulenza sulla revisione dei contenuti. Revisione del codice. Predisposizione Analytics. Monitoraggio dei principali parametri di andamento (visite, bouncing rates, obiettivi). Ottimizzazione landing pages.
-
-### Development
-HTML, CSS, JavaScript/JQuery, PHP/ZendFramework, ActionScript/Flex, C, C++.
-
-### OS
-Apple (desktop e mobile), Microsoft, GNU/Linux, Android.
-
-### Database
-Progettazione, integrazione e manutenzione. MySQL, Oracle, SQL Server.
-
-### Insegnamento
-Insegnamento frontale e cooperativo. Creazione di materiale didattico originale. Public Speaking. Mentoring e coaching. e-Learinig con esperimenti di Flipped Classroom.
 
 ## ISTRUZIONE E FORMAZIONE
 ### 2016
@@ -121,7 +136,7 @@ Diploma in Informatica Industriale presso l’ITIS “G. Majorana” di Gruglias
 
 ## ABILITAZIONI E IDONEITÀ MINISTERIALI
 ### Informatica
-Abilitato all’insegnamento con Concorso 1999, inserito nelle Graduatorie ad Esaurimento.
+Abilitato all’insegnamento con Concorso Ordinario 1999.
 
 ### Matematica
 Idoneo all’insegnamento per il Titolo di studio.
