@@ -6,19 +6,49 @@ permalink: /curriculum/
 
 ## ESPERIENZA PROFESSIONALE
 ### Docente di "Informatica" per l'indirizzo "Informatica e Telecomunicazioni" dal 2015 ad oggi, ITI "Ettore Majorana" - Grugliasco (TO) - www.itismajo.it
-Sfrutto la mia esperienza nelle nuove tecnologie per costruire lezioni con media il più possibile ricchi e diversi. Sperimento e pratico metodologie didattiche innovative. Supporto gli allievi nel loro metodo di studio, nella crescita personale e l'orientamento per il futuro.
+Come docente di informatica in un Istituto Tecnico Industriale seguo le linee guida ministeriali che riguardano la mia materia. Insegno prevalentemente nel triennio e gli argomenti che tratto vanno dal pensiero computazionale, alla programmazione (linea di comando, desktop, mobile e web), fino alla progettazione di basi si dati. Utilizzo argomenti di sicurezza informatica, strumenti di "gamification" e il "project based learning" per arricchire l'esperienza di apprendimento dei miei allievi. Inoltre tengo corsi di formazione per docenti sull'innovazione digitale e la didattica.
 
-Collaboro con i colleghi in progetti legati alla didattica ed al buon funzionamento della scuola.
+#### TECNOLOGIE
+- Linguaggi C#, SQL, HTML, CSS, Javascript
+- Microsoft Visual Studio Community,
+- Microsoft SQL Server, 
+- Microsoft Visual Studio Code, 
+- Microsoft .Net Core, Razor Pages e componenti Blazor, 
+- Git e GitHub, 
+- Ubuntu Server, 
+- Google Cloud Platform, 
+- Docker, 
+- Microsoft 365.
 
-#### INCARICHI E PROGETTI
-- Membro del Team Innovazione
-- Formatore Docenti Neo-immessi dal 2016, corsi proposti: "Apprendimento per progetti e valutazione formativa", "Giochi digitali nell’apprendimento", "Cyberbullismo, prevenzione e contrasto", "Piattaforme di e-Learning"
-- Formatore PNFD, corsi proposti: didattica innovativa con i videogiochi “Quando il gioco si fa duro” 2016-2017, su Piattaforma SOFIA “SISTEMI DI E-LEARNING, SUPPORTI DIGITALI PER LA DIDATTICA ( 4.3)” 2017-2018
-- Relatore "Didacta 2018" per il workshop "Giochi digitali e apprendimento: scene da un matrimonio"
+#### INCARICHI
+- Funzione strumentale per i PCTO dell'indirizzo "Informatica e Telecomunicazioni"
+- Referente per il Cyberbullismo
+- Membro del Team Innovazione PNSD
+
+#### FORMAZIONE DOCENTI
+Formatore Docenti dal 2016, per formazione neo-immessi in ruolo e PNFD. Alcuni titoli dei corsi proposti: 
+- “Apprendimento per progetti e valutazione formativa”, 
+- “Giochi digitali nell’apprendimento”, 
+- “Cyberbullismo, prevenzione e contrasto”, 
+- “Piattaforme di e-Learning”.
+
+#### CONFERENZE
+- Relatore “Didacta 2018 - INDIRE” per il workshop “Giochi digitali e apprendimento: scene da un matrimonio”
+- Relatore “Scuola & Virtuale 2019 - ImparaDigitale e INDIRE” per il workshop "Presentazione dell'esperienza di alternanza scuola lavoro: Realtà virtuale a Palazzo Madama"
+- Relatore in conferenze territoriali di aggiornamento per docenti e genitori sulla “Cittadinanza Digitale”
+
+#### PROGETTI
+- Esperto PON-FSE "Non mi perdo" - Modulo "Gaming Majo Camp"
+- Esperto PON-FSE "Torino inquadra l'Arte Reale - Just Frame It" - Moduli "Storydoing Reale" e "Gioca Reale", in collaborazione con l'ente Musei Reali di Torino
+- Tutor PON-FSE ASL "Realtà virtuale a Palazzo Madama" in collaborazione con la "Fondazione Torino Musei" vincitore del premio "Storie di Alternanza" 2019 promosso dalla Camera di commercio di Torino
 - Docente per la certificazione "Microsoft Technology Associate" - "HTML5 Application Development Fundamentals"
-- Partecipazione all’organizzazione di “Global Game Jam”, hackaton per la creazione di videogames, tenuti a Torino negli anni 2016, 2017 e 2018.
-- Minecraft Education Edition Global Mentor 2018
-- Microsoft Innovative Educator Expert
+- Realizzazione del gioco didattico: "Il Viaggio Videogame", gioco di ruolo online per la sensibilizzazione alla condizione dei migranti.​
+
+#### COLLABORAZIONI
+- Partecipazione all’organizzazione degli hackaton per la creazione di videogames “Global Game Jam” tenuti a Torino negli anni 2016, 2017 e 2018.
+- Minecraft Education Edition Global Mentor 2018, programma di aggiornamento Microsoft per insegnanti sulla Game Based Learning con Minecraft
+- Microsoft Innovative Educator Expert dal 2017-2021
+- Formatore progetto "Programmo anch'io" per Associazione DSchola
 
 ### Docente di "Informatica" dal 2012 al 2014
 - Liceo Scientifico Primo Levi - Torino - www.istitutoprimolevi.gov.it
