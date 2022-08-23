@@ -6,7 +6,7 @@ layout: home
 list_title: Articoli
 ---
 
-![bozzimarcello-foto-profilo.png](/img/bozzimarcello-foto-profilo.png)
+![bozzimarcello-foto-profilo.jpg](/img/bozzimarcello-foto-profilo.jpg)
 
 # Benvenuto
 Queste pagine raccolgono alcune informazioni su di me.
