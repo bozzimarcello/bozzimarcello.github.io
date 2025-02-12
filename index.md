@@ -26,4 +26,4 @@ Se vuoi entrare in contatto con me puoi seguirmi su Twitter [@marcellobozzi](htt
 Qui trovi alcune slides dei miei corsi per docenti Neo-Immessi in ruolo:
 - [Apprendimento per progetti e valutazione formativa](/slides/2022-BOZZI-NeoImmessi-Apprendimento%20per%20progetti%20e%20valutazione%20formativa.pdf)
 - [Giochi digitali nell'apprendimento](/slides/2022-BOZZI-NeoImmessi-Giochi%20digitali%20nell'apprendimento.pdf)
-- [Prevenzione del Cyberbullismo](/slides/2022-BOZZI-NeoImmessi-Prevenzione%20del%20Cyberbullismo.pdf)
+- [Prevenzione del Cyberbullismo](/slides/2025-BOZZI-NeoImmessi-PrevenzioneCyberbullismo.pdf)
