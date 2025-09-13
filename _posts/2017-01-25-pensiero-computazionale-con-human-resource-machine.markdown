@@ -45,10 +45,3 @@ Allo scadere del tempo di gioco, la squadra che avrà ottenuto il maggior numero
 
 ## Ricadute didattiche
 Nella sperimentazione in aula ho scoperto che il gioco è molto ben accolto dai ragazzi, anche dai meno motivati. Il fatto di farli lavorare in squadra, aiuta lo spirito di gruppo. Gli elementi del gioco e il lavoro svolto insieme, ti forniranno una miriade di esempi da riutilizzare in classe nel caso continuassi la formazione sul coding.
-
-
-
-
-Questo articolo è distribuito con Licenza **[Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/deed.it)**.
-
-[![Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.it)

@@ -87,10 +87,3 @@ Un progetto Unity per la VR si basa su un insieme di pacchetti e componenti spec
 * **XR Socket Interactor:** Crea un "alloggiamento" in cui un oggetto afferrabile può essere inserito, attivando una specifica reazione.
 
 Affrontare lo sviluppo in VR con Unity apre a scenari didattici di grande impatto. Sebbene l'argomento sia vasto, le risorse disponibili e la strutturazione della piattaforma consentono di approcciare questo mondo in modo progressivo e metodico, costruendo competenze solide da poter poi reinvestire in progetti didattici sempre più ambiziosi.
-
-
-
-
-Questo articolo è distribuito con Licenza **[Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/deed.it)**.
-
-[![Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.it)
