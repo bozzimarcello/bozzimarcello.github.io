@@ -27,3 +27,7 @@ Qui trovi alcune slides dei miei corsi per docenti Neo-Immessi in ruolo:
 - [Apprendimento per progetti e valutazione formativa](/slides/2022-BOZZI-NeoImmessi-Apprendimento%20per%20progetti%20e%20valutazione%20formativa.pdf)
 - [Giochi digitali nell'apprendimento](/slides/2022-BOZZI-NeoImmessi-Giochi%20digitali%20nell'apprendimento.pdf)
 - [Prevenzione del Cyberbullismo](/slides/2025-BOZZI-NeoImmessi-PrevenzioneCyberbullismo.pdf)
+
+I contenuti di questo sito sono distribuiti con Licenza **[Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/deed.it)**.
+
+[![Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.it)

@@ -45,3 +45,10 @@ Durante questi passaggi dovrai dosare le somministrazioni di “ansia” e “sp
 Con un po’ di pratica sarai in grado di far decollare qualsiasi classe dal solito atteggiamento sonnecchiante verso un pubblico saltellante ed attivo.
 
 Non dimenticare, nel frattempo, di darti qualche obiettivo didattico da raggiungere nella lezione.
+
+
+
+
+Questo articolo è distribuito con Licenza **[Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/deed.it)**.
+
+[![Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.it)

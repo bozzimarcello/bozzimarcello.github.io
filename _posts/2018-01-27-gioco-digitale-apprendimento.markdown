@@ -68,3 +68,10 @@ Simone Cosimi
 
 ## APPROFONDIMENTI
 [The illuminating benefits of video games](https://www.ted.com/playlists/661/the_illuminating_benefits_of_videos_games)
+
+
+
+
+Questo articolo è distribuito con Licenza **[Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/deed.it)**.
+
+[![Licenza Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.it)
