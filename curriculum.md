@@ -22,7 +22,7 @@ Come docente di informatica in un Istituto Tecnico Industriale seguo le linee gu
 
 #### INCARICHI
 - Funzione strumentale per i PCTO dell'indirizzo "Informatica e Telecomunicazioni"
-- Referente per il Cyberbullismo
+- Referente per la prevenzione del Bullismo e Cyberbullismo
 - Membro del Team Innovazione PNSD
 
 #### FORMAZIONE DOCENTI
@@ -150,5 +150,10 @@ Idoneo all’insegnamento per il Titolo di studio.
 
 ## LINGUE
 - Italiano, madrelingua.
+- Francese, livello B1 (Intermedio)
 - Inglese, livello B2 (Intermedio superiore)
-- Francese, livello B2 (Intermedio superiore)
+
+### Certificazione Cambridge English
+First Certificate in English - 31/5/2025
+Cambridge English Level 1 Certificate in ESOL International (First)
+Council of Europe Level B2
