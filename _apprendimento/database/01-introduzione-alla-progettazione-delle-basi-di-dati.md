@@ -3,6 +3,7 @@ layout: page
 title: "01 Introduzione alla progettazione delle basi di dati"
 argomento: Database
 description: "Prima lezione del modulo: dal problema alla progettazione concettuale di una base di dati."
+assets: /assets/apprendimento/database/01-introduzione-alla-progettazione-delle-basi-di-dati
 ---
 
 > **Stub di esempio.** Il contenuto di questa pagina è segnaposto: serve solo a mostrare struttura e URL. Sostituiscilo con la lezione vera.
@@ -38,3 +39,9 @@ Una **base di dati** (o *database*) è una collezione organizzata di dati, strut
 
 1. Elenca tre differenze tra dato e informazione.
 2. Descrivi con parole tue la differenza tra schema concettuale e schema logico.
+
+## Materiali
+
+![Schema Entità-Relazione]({{ page.assets }}/schema-er.png)
+
+[Scarica gli esercizi (PDF)]({{ page.assets }}/esercizi.pdf)
