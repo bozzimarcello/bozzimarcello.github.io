@@ -6,7 +6,7 @@ permalink: /curriculum/
 
 ## POSIZIONE ATTUALE
 ### Docente di "Informatica" per l'indirizzo "Informatica e Telecomunicazioni" dal 2015 ad oggi, ITI "Ettore Majorana" - Grugliasco (TO) - www.itismajo.it
-Come docente di informatica in un Istituto Tecnico Industriale seguo le linee guida ministeriali che riguardano la mia materia. Insegno prevalentemente nel triennio e gli argomenti che tratto vanno dal pensiero computazionale, alla programmazione (linea di comando, desktop, mobile e web), fino alla progettazione di basi si dati. Utilizzo argomenti di sicurezza informatica, strumenti di "gamification" e il "project based learning" per arricchire l'esperienza di apprendimento dei miei allievi. Inoltre tengo corsi di formazione per docenti sull'innovazione digitale e la didattica.
+Come docente di informatica in un Istituto Tecnico Industriale seguo le linee guida ministeriali che riguardano la mia materia. Insegno prevalentemente nel triennio e gli argomenti che tratto vanno dal pensiero computazionale, alla programmazione (linea di comando, desktop, mobile e web), fino alla progettazione di basi di dati. Utilizzo argomenti di sicurezza informatica, strumenti di "gamification" e il "project based learning" per arricchire l'esperienza di apprendimento dei miei allievi. Inoltre tengo corsi di formazione per docenti sull'innovazione digitale e la didattica.
 
 #### TECNOLOGIE
 - Linguaggi C#, SQL, HTML, CSS, Javascript
@@ -70,7 +70,7 @@ Ho svolto analisi tecniche ed curato la realizzazione di applicazioni Web per l�
 ### Segretario Generale dal 2001 al 2005 in Associazione GBU - Firenze - www.gbuitalia.org
 L’Associazione Gruppi Biblici Universitari è un’organizzazione no-profit parte di IFES (www.ifesworld.org) un movimento cristiano che opera tra gli studenti universitari in più di 150 paesi nel mondo, dal 1947.
 
-Mi sono occupato dello sviluppo e del funzionamento dell’organizzazione italiana. Tra le funzioni svolte: pianificazione strategica; formazione; creazione e supporto di un team operativo di professionisti e volontari; cura delle pubbliche relazioni nazionali e internazionali; fund rising; cura degli aspetti legali, finanziari e contabili.
+Mi sono occupato dello sviluppo e del funzionamento dell’organizzazione italiana. Tra le funzioni svolte: pianificazione strategica; formazione; creazione e supporto di un team operativo di professionisti e volontari; cura delle pubbliche relazioni nazionali e internazionali; fundraising; cura degli aspetti legali, finanziari e contabili.
 
 ### C/C++ Developer dal 1999 al 2001 in Tera Digital Publishing S.p.A. - Milano - www.teradp.com
 Ho creato componenti per l’elaborazione di immagini e sistemi di archiviazione automatica di contenuti in ambiente editoriale, i sistemi si basavano su tecnologie Web.
@@ -80,7 +80,7 @@ Mi sono occupato di analizzare, realizzare e seguire i clienti nel servizio post
 
 ## SINTESI COMPETENZE
 ### Insegnamento
-Insegnamento frontale e cooperativo. Creazione di materiale didattico originale. Public Speaking. Mentoring e coaching. e-Learinig con esperimenti di Flipped Classroom.
+Insegnamento frontale e cooperativo. Creazione di materiale didattico originale. Public Speaking. Mentoring e coaching. e-Learning con esperimenti di Flipped Classroom.
 
 ### Development
 - Linguaggi: C#, SQL, HTML, CSS, Javascript, PHP, C, C++
@@ -88,7 +88,7 @@ Insegnamento frontale e cooperativo. Creazione di materiale didattico originale.
 - Microsoft .Net Core, Razor Pages e componenti Blazor
 - Unity 3D, game dev, AR/VR
 
-### Versionig
+### Versioning
 - Git e GitHub
 
 ### Cloud
